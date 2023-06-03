@@ -1,0 +1,38 @@
+NoZone
+BiomeOnly
+none
+downtown
+ResidentialOld
+DevOnly
+Commercial
+Residential
+any
+NavOnly
+Commercial, ResidentialNew
+downtown, commercial, industrial
+none, Commercial, downtown, Industrial
+ResidentialOld, ResidentialNew, Downtown
+Residential, ResidentialNew
+ResidentialNew, Residential
+ResidentialNew
+Industrial
+ResidentialNew, ResidentialOld, Residential
+Commercial, downtown
+commercial, downtown
+ResidentialNew, downtown
+none, Commercial, Industrial
+ResdentialOld
+ResidentialNew, ResdentialOld, downtown
+industrial
+none, Commercial
+ResidentialOld, ResidentialNew, Industrial
+none, downtown
+ResidentialOld, Industrial
+downtown, residentialnew
+ResidentialNew, Residential, any
+residentialnew
+Industrial, none
+ResidentialOld, ResdentialOld
+downtown, ResidentialNew
+commercial
+none, Commercial, downtown

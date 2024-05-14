@@ -1,5 +1,6 @@
 import os
 
+
 def point(a: list, consumer) -> list:
     a2 = []
     for e in a:
@@ -26,11 +27,12 @@ def collect_pois(poi_dir):
                     ls.append(zone)
                     print(zone)
 
-
+    # fug
 
 
 if __name__ == "__main__":
     from sys import argv
+
     if len(argv) < 2:
         print("Usage: ./util.py poi_list")
     collect_pois(argv[1])

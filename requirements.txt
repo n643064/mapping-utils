@@ -1,2 +1,4 @@
 pycairo
-Pillow
+Pillow~=10.3.0
+numpy
+# get crunk

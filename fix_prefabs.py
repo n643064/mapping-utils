@@ -18,7 +18,7 @@ def main(heightmap_path, prefabs_path, output_path):
         line = prefabs.readline()
         if not line or "</prefabs>" in line:
             break
-        position = line[line.find("position=")+10:line.rfind("rotation")-2]
+        position = line[line.find("position=") + 10 : line.rfind("rotation") - 2]
         xz = position.split(",")
         x = int(xz[0])
         z = int(xz[2])
